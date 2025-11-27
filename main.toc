@@ -1,0 +1,25 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduzione}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Concetti fondamentali}{3}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Red Team}{3}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Blue Team}{6}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Cyber Range}{7}{subsection.1.1.3}%
+\contentsline {chapter}{\numberline {2}MITRE Caldera}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Componenti \& funzionalità}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Esempio uso di Caldera}{12}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Presentazione Virtual Machines}{16}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Windows VM}{17}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Firewall}{17}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Microsoft SQL Server 2019}{18}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Applicazione Web}{19}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Ubuntu VM}{20}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Kill Chain}{22}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Ciclo di vita}{22}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Cyber Kill Chain Matrix}{24}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Operazioni di Red Teaming}{25}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Individuazione exploit}{26}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Inserimento agente}{28}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Avversario "Defense Evasion" (use case 1)}{30}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Creazione avversario (use case 2)}{31}{subsection.4.3.4}%
+\contentsline {chapter}{\numberline {5}Conclusioni}{34}{chapter.5}%

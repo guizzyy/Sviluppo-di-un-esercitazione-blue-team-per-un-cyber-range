@@ -1,0 +1,99 @@
+\documentclass[oneside]{sapthesis}
+
+\usepackage{inputenc}
+\usepackage[italian]{babel}
+
+\usepackage{microtype}
+\usepackage{indentfirst}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tocloft}
+\usepackage[nottoc, notlof, notlot]{tocbibind}
+
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{lettrine}
+\usepackage{fvextra}
+\usepackage{fancyvrb}
+\usepackage{xcolor}
+\usepackage{float}
+
+\usepackage{verbatim}
+\usepackage{listings}
+
+\usepackage[backend=biber,style=numeric,citestyle=numeric, url=true, sorting=none]{biblatex}
+\addbibresource{bibliography.bib}
+
+\usepackage[utf8]{inputenx}
+\usepackage[hidelinks]{hyperref}
+\usepackage{csquotes}
+
+\title{Sviluppo di un'esercitazione blue team per un cyber range}
+\author{Diego Antonio Guzman Aguirre}
+\IDnumber{2006301}
+\courseorganizer{Facolt\`a di Ingegneria dell'Informazione}
+\course{Corso di Laurea Triennale in Informatica}
+\submitdate{2024/2025}
+\copyyear{2025}
+\advisor{Prof. Angelo Spognardi}
+\authoremail{dieguz1507@gmail.com}
+\examdate{22 Ottobre 2025}
+\examiner{Alessandro Mei}
+\examiner{Paolo Bottoni}
+\examiner{Marco Raoul Marini}
+\examiner{Angelo Monti}
+
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries}
+  {\chaptername\ \thechapter}
+  {0.6cm}
+  {\Huge\bfseries}
+
+% Get the first letter of the thesis long 2 lines
+\renewcommand{\cftchapdotsep}{\cftdotsep}
+\renewcommand{\LettrineTextFont}{\normalfont}
+\renewcommand{\DefaultLoversize}{0.1}
+\setlength{\DefaultFindent}{0.1em}
+\setlength{\DefaultNindent}{0em}
+\setcounter{DefaultLines}{2}
+\linespread{0.9}
+
+\DeclareBibliographyDriver{article}{%
+  \printnames{author}%
+  \newunit\newblock
+  \textbf{\printfield[titlecase]{title}}%
+  \newunit\newblock
+  \iffieldundef{url}{}{\\\printfield{url}}%
+}
+
+
+\begin{document}
+
+\frontmatter
+\maketitle
+
+\begin{abstract}
+La seguente relazione presenta il lavoro svolto durante il tirocinio interno sotto la supervisione del professor Angelo Spognardi, guida del gruppo Network Security Lab del Dipartimento di Informatica dell'Università "La Sapienza" di Roma.\\
+L'obiettivo principale del tirocinio è stato sviluppare un possibile scenario di un attacco informatico da poter replicare in un ambiente virtuale, conosciuto anche come cyber range, in modo da consentire ad un blue team di tentare l'individuazione dell'exploit nel sistema vittima e poter fornire un resoconto dell'individuazione.\\[1.5em]
+Come strumento utile e fondamentale per realizzare il lavoro svolto, è stato fatto uso di MITRE Caldera, un framework capace di emulare o simulare il comportamento di un avversario durante un attacco a un'infrastruttura, in particolare automatizza le fasi di una kill chain e per questo motivo è un ottimo assistente da affiancare a degli specialisti in Red Team per quanto riguarda il test sui sistemi di sicurezza.\\
+Sviluppata per la prima volta nel 2017, Caldera basa i suoi tool sul framework MITRE ATT\&CK: un progetto creato da Mitre Corporation, rilasciato nel 2013 e nato con lo scopo di fornire una linea guida per classificare e descrivere attacchi informatici o intrusioni di gruppi APT conosciuti, classificandoli in base al loro TTP \textit{(Techniques, Tactics \& Procedures)} e dividendoli nelle varie fasi della kill chain.\\
+Per emulare l'agente vulnerabile da attaccare, è stata programmata una macchina virtuale tramite il software \textit{Oracle VirtualBox} in cui è stato installato un sistema operativo Windows 10 Pro munito di Microsoft SQL server (\textsc{MSSQL}), mentre il server che ospita Caldera è stato configurato in una macchina Linux Ubuntu con relativi package in più scaricati per la buona riuscita del laboratorio.\\[1.5em]
+L'obiettivo principale del lavoro svolto è quello di sensibilizzare persone ed aziende sulla vulnerabilità e il rischio dei propri sistemi. In un mondo in cui si verificano 2200 attacchi cyber al giorno, è di vitale importanza salvaguardare i propri assets e i propri dati, ponendo principale enfasi sull'attenzione e la buona configurazione dei sistemi usufruiti personalmente o resi disponibili a una clientela.\\
+Con le risorse rese disponibili tramite l'intelligenza artificiale, la documentazione in continuo aggiornamento di MITRE offre una risorsa molto importante per i blue team all'interno delle aziende, in special modo se affiancati a framework quali lo stesso Caldera; in questo tirocinio sono stati sviluppati solo un paio di use cases, con l'intenzione di rendere disponibile la macchina alle organizzazioni che vogliono mettere alla prova la capacità dei propri team.
+
+\end{abstract}
+
+\mainmatter
+
+\tableofcontents
+
+\include{chapters/paragraph1}
+\include{chapters/paragraph2}
+\include{chapters/paragraph3}
+\include{chapters/paragraph4}
+\include{chapters/paragraph5}
+
+\backmatter
+\printbibliography
+
+\end{document}

@@ -1,0 +1,295 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{clusit}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=8d581d956372e952a625a35fa4d42673}{%
+           family={CLUSIT},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d581d956372e952a625a35fa4d42673}
+      \strng{fullhash}{8d581d956372e952a625a35fa4d42673}
+      \strng{fullhashraw}{8d581d956372e952a625a35fa4d42673}
+      \strng{bibnamehash}{8d581d956372e952a625a35fa4d42673}
+      \strng{authorbibnamehash}{8d581d956372e952a625a35fa4d42673}
+      \strng{authornamehash}{8d581d956372e952a625a35fa4d42673}
+      \strng{authorfullhash}{8d581d956372e952a625a35fa4d42673}
+      \strng{authorfullhashraw}{8d581d956372e952a625a35fa4d42673}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rapport Clusit 2025}
+      \verb{urlraw}
+      \verb https://clusit.it/rapporto-clusit/
+      \endverb
+      \verb{url}
+      \verb https://clusit.it/rapporto-clusit/
+      \endverb
+    \endentry
+    \entry{mordor}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=b1c89588f44968dc3b7dce8efeb1cc46}{%
+           family={INTELLIGENCE},
+           familyi={I\bibinitperiod},
+           given={MORDOR},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1c89588f44968dc3b7dce8efeb1cc46}
+      \strng{fullhash}{b1c89588f44968dc3b7dce8efeb1cc46}
+      \strng{fullhashraw}{b1c89588f44968dc3b7dce8efeb1cc46}
+      \strng{bibnamehash}{b1c89588f44968dc3b7dce8efeb1cc46}
+      \strng{authorbibnamehash}{b1c89588f44968dc3b7dce8efeb1cc46}
+      \strng{authornamehash}{b1c89588f44968dc3b7dce8efeb1cc46}
+      \strng{authorfullhash}{b1c89588f44968dc3b7dce8efeb1cc46}
+      \strng{authorfullhashraw}{b1c89588f44968dc3b7dce8efeb1cc46}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Italy Cybersecurity Market}
+      \verb{urlraw}
+      \verb https://www.mordorintelligence.com/industry-reports/italy-cybersecurity-market
+      \endverb
+      \verb{url}
+      \verb https://www.mordorintelligence.com/industry-reports/italy-cybersecurity-market
+      \endverb
+    \endentry
+    \entry{nmap}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nmap}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Nmap
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Nmap
+      \endverb
+    \endentry
+    \entry{red_team}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=e97730abd6e0fd744fa7854485c6709f}{%
+           family={Technology},
+           familyi={T\bibinitperiod},
+           given={Check\bibnamedelimb Point\bibnamedelima Software},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e97730abd6e0fd744fa7854485c6709f}
+      \strng{fullhash}{e97730abd6e0fd744fa7854485c6709f}
+      \strng{fullhashraw}{e97730abd6e0fd744fa7854485c6709f}
+      \strng{bibnamehash}{e97730abd6e0fd744fa7854485c6709f}
+      \strng{authorbibnamehash}{e97730abd6e0fd744fa7854485c6709f}
+      \strng{authornamehash}{e97730abd6e0fd744fa7854485c6709f}
+      \strng{authorfullhash}{e97730abd6e0fd744fa7854485c6709f}
+      \strng{authorfullhashraw}{e97730abd6e0fd744fa7854485c6709f}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Red Team}
+      \verb{urlraw}
+      \verb https://www.checkpoint.com/it/cyber-hub/cyber-security/what-is-a-red-team
+      \endverb
+      \verb{url}
+      \verb https://www.checkpoint.com/it/cyber-hub/cyber-security/what-is-a-red-team
+      \endverb
+    \endentry
+    \entry{blue_team}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{1}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Blue Team}
+      \verb{urlraw}
+      \verb https://www.ibm.com/it-it/topics/blue-team
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/it-it/topics/blue-team
+      \endverb
+    \endentry
+    \entry{ibm_cyberRange}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cyber range}
+      \verb{urlraw}
+      \verb https://www.ibm.com/it-it/think/topics/cyber-range
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/it-it/think/topics/cyber-range
+      \endverb
+    \endentry
+    \entry{os_usage}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=fee3fc182e02f376217580e5bfec4f51}{%
+           family={StatCounter},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{fee3fc182e02f376217580e5bfec4f51}
+      \strng{fullhash}{fee3fc182e02f376217580e5bfec4f51}
+      \strng{fullhashraw}{fee3fc182e02f376217580e5bfec4f51}
+      \strng{bibnamehash}{fee3fc182e02f376217580e5bfec4f51}
+      \strng{authorbibnamehash}{fee3fc182e02f376217580e5bfec4f51}
+      \strng{authornamehash}{fee3fc182e02f376217580e5bfec4f51}
+      \strng{authorfullhash}{fee3fc182e02f376217580e5bfec4f51}
+      \strng{authorfullhashraw}{fee3fc182e02f376217580e5bfec4f51}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Global desktop OS usage}
+      \verb{urlraw}
+      \verb https://gs.statcounter.com/os-market-share/desktop/worldwide
+      \endverb
+      \verb{url}
+      \verb https://gs.statcounter.com/os-market-share/desktop/worldwide
+      \endverb
+    \endentry
+    \entry{mssql}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=5aa41b7dd0dae0a64d4187560d7d1b5c}{%
+           family={ConstantCare},
+           familyi={C\bibinitperiod},
+           given={SQL},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{5aa41b7dd0dae0a64d4187560d7d1b5c}
+      \strng{fullhash}{5aa41b7dd0dae0a64d4187560d7d1b5c}
+      \strng{fullhashraw}{5aa41b7dd0dae0a64d4187560d7d1b5c}
+      \strng{bibnamehash}{5aa41b7dd0dae0a64d4187560d7d1b5c}
+      \strng{authorbibnamehash}{5aa41b7dd0dae0a64d4187560d7d1b5c}
+      \strng{authornamehash}{5aa41b7dd0dae0a64d4187560d7d1b5c}
+      \strng{authorfullhash}{5aa41b7dd0dae0a64d4187560d7d1b5c}
+      \strng{authorfullhashraw}{5aa41b7dd0dae0a64d4187560d7d1b5c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Usage of MSSQL - Summer 2025}
+      \verb{urlraw}
+      \verb https://www.brentozar.com/archive/2025/07/sql-constantcare-population-report-summer-2025/
+      \endverb
+      \verb{url}
+      \verb https://www.brentozar.com/archive/2025/07/sql-constantcare-population-report-summer-2025/
+      \endverb
+    \endentry
+    \entry{cyber_kill_chain}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=cfc4004d9e5b42cdc978fc9dcfec9383}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Lockheed},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{cfc4004d9e5b42cdc978fc9dcfec9383}
+      \strng{fullhash}{cfc4004d9e5b42cdc978fc9dcfec9383}
+      \strng{fullhashraw}{cfc4004d9e5b42cdc978fc9dcfec9383}
+      \strng{bibnamehash}{cfc4004d9e5b42cdc978fc9dcfec9383}
+      \strng{authorbibnamehash}{cfc4004d9e5b42cdc978fc9dcfec9383}
+      \strng{authornamehash}{cfc4004d9e5b42cdc978fc9dcfec9383}
+      \strng{authorfullhash}{cfc4004d9e5b42cdc978fc9dcfec9383}
+      \strng{authorfullhashraw}{cfc4004d9e5b42cdc978fc9dcfec9383}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kill Chain}
+      \verb{urlraw}
+      \verb https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
+      \endverb
+      \verb{url}
+      \verb https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
+      \endverb
+    \endentry
+    \entry{kill_chain}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=3c6620a6a5bbeaef8936571dc4b553d0}{%
+           family={Cyber-Pro},
+           familyi={C\bibinithyphendelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{3c6620a6a5bbeaef8936571dc4b553d0}
+      \strng{fullhash}{3c6620a6a5bbeaef8936571dc4b553d0}
+      \strng{fullhashraw}{3c6620a6a5bbeaef8936571dc4b553d0}
+      \strng{bibnamehash}{3c6620a6a5bbeaef8936571dc4b553d0}
+      \strng{authorbibnamehash}{3c6620a6a5bbeaef8936571dc4b553d0}
+      \strng{authornamehash}{3c6620a6a5bbeaef8936571dc4b553d0}
+      \strng{authorfullhash}{3c6620a6a5bbeaef8936571dc4b553d0}
+      \strng{authorfullhashraw}{3c6620a6a5bbeaef8936571dc4b553d0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fasi di una kill chain}
+      \verb{urlraw}
+      \verb https://www.cyber-pro.it/cyber-news/la-kill-chain-cos-%C3%A8-e-come-proteggere-la-tua-azienda
+      \endverb
+      \verb{url}
+      \verb https://www.cyber-pro.it/cyber-news/la-kill-chain-cos-%C3%A8-e-come-proteggere-la-tua-azienda
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
